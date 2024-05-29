@@ -248,7 +248,7 @@ if selected == 'Cancer Prediction':
                           float(symmetry_worst), float(fractal_dimension_worst)]
             
             # Make prediction
-            cancer_prediction = cancer_model.predict([input_data])
+             cancer_prediction = cancer_model.predict([input_data])
             
             if cancer_prediction[0] == 1:
                 cancer_diagnosis = '**The person is having Cancer**'
