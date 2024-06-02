@@ -1,21 +1,19 @@
 import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu
-import os
+
 
 # Loading the saved models
-def load_model(file_path):
-    try:
-        return pickle.load(open(file_path, 'rb'))
-    except Exception as e:
-        st.error(f"Error loading model: {e}")
-        return None
 
-cancer_model = load_model('C:/Users/dell/Saved/cancer_model.sav')
-heart_model = load_model('C:/Users/dell/Saved/heart_model.sav')
-kidney_model = load_model('C:/Users/dell/Saved/kidney_model.sav')
-liver_model = load_model('C:/Users/dell/Saved/liver_model.sav')
-diabetes_model = load_model('C:/Users/dell/Saved/diabetes_model.sav')
+cancer_model = pickle.load(open('C:/Users/dell/Saved/cancer_model.sav', 'rb'))
+
+heart_model = pickle.load(open('C:/Users/dell/Saved/heart_model.sav', 'rb'))
+
+kidney_model = pickle.load(open('C:/Users/dell/Saved/kidney_model.sav', 'rb'))
+
+liver_model = pickle.load(open('C:/Users/dell/Saved/liver_model.sav', 'rb'))
+
+diabetes_model = pickle.load(open('C:/Users/dell/Saved/diabetes_model.sav', 'rb'))
 
 
 
