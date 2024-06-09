@@ -1,8 +1,7 @@
 Multiple Disease Prediction Web Application
-
 🌟 WEB-APP LINK BELOW 🌟
 
-🔗 Explore the Application Live! 🔗https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/
+🔗 Explore the Application Live! 🔗
 
 Overview
 Welcome to the Multiple Disease Prediction Web Application! This powerful tool leverages advanced machine learning algorithms to predict the likelihood of various health conditions. Whether you're concerned about liver, kidney, cancer, heart, or diabetes conditions, our application provides an easy-to-use interface for quick and reliable predictions.
@@ -19,8 +18,3 @@ Streamlit: For building the interactive web application.
 Machine Learning: Advanced algorithms to deliver accurate predictions.
 Pandas & NumPy: Data handling and manipulation.
 Scikit-Learn: Model training and evaluation.
-How to Use
-Visit the Web App: Click here to access the app
-Enter Your Data: Input the required health metrics for the prediction.
-Get Your Results: Receive an instant prediction and insights based on the input data.
-Feedback Welcome: We'd love to hear your thoughts and suggestions for improvement!
