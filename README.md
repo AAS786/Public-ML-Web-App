@@ -1,5 +1,6 @@
 <div align="center" style="border: 2px solid #ccc; padding: 20px; background: url('https://i.postimg.cc/6QcXc09m/healthinformatics-PIC-636x424.jpg') no-repeat center center; background-size: cover;">
   <h1>Multiple Disease Prediction Web Application</h1>
+  <img alt="Multiple Disease Prediction" src="https://i.postimg.cc/6QcXc09m/healthinformatics-PIC-636x424.jpg" />
   <br><br>
   <p>Click on the button below:</p>
   <a href="https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/" target="_blank">
