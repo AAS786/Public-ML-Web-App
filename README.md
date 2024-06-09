@@ -1,6 +1,6 @@
 <div align="center">
   <h1><a href="https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/">Multiple Disease Prediction Web Application</a></h1>
-  <img alt="Multiple Disease Prediction" src="path_to_your_image.png" />
+  <img alt="Multiple Disease Prediction" src="[path_to_your_image.png](https://i.postimg.cc/NjLmBNn1/maxresdefault-4.jpg)" />
 </div>
 
 <p align="center">
@@ -40,11 +40,11 @@ Welcome to the **Multiple Disease Prediction Web Application**! This powerful to
 
 Explore the Jupyter Notebooks used for model development and analysis:
 
-- [Liver Disease Prediction](https://github.com/yourusername/your-repo/blob/main/notebooks/Liver_Disease_Prediction.ipynb)
-- [Kidney Disease Prediction](https://github.com/yourusername/your-repo/blob/main/notebooks/Kidney_Disease_Prediction.ipynb)
-- [Cancer Prediction](https://github.com/yourusername/your-repo/blob/main/notebooks/Cancer_Prediction.ipynb)
-- [Heart Disease Prediction](https://github.com/yourusername/your-repo/blob/main/notebooks/Heart_Disease_Prediction.ipynb)
-- [Diabetes Prediction](https://github.com/yourusername/your-repo/blob/main/notebooks/Diabetes_Prediction.ipynb)
+- [Liver Disease Prediction]([https://github.com/yourusername/your-repo/blob/main/notebooks/Liver_Disease_Prediction.ipynb](https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/liver-disease.ipynb))
+- [Kidney Disease Prediction]([https://github.com/yourusername/your-repo/blob/main/notebooks/Kidney_Disease_Prediction.ipynb](https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/kidney-disease.ipynb))
+- [Cancer Prediction]([https://github.com/yourusername/your-repo/blob/main/notebooks/Cancer_Prediction.ipynb](https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/Breast-cancer.ipynb))
+- [Heart Disease Prediction]([https://github.com/yourusername/your-repo/blob/main/notebooks/Heart_Disease_Prediction.ipynb](https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/heart-disease.ipynb))
+- [Diabetes Prediction]([https://github.com/yourusername/your-repo/blob/main/notebooks/Diabetes_Prediction.ipynb](https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/diabetes-disease.ipynb))
 
 ## Technology Stack
 
