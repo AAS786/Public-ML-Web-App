@@ -29,10 +29,15 @@ Welcome to the Multiple Disease Prediction Web Application! This powerful tool l
 
 Features
 <a href="https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/liver">Liver Disease Prediction</a>: Assess the risk of liver conditions based on key health metrics.
+
 <a href="https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/kidney">Kidney Disease Prediction</a>: Evaluate kidney health with precise predictions.
+
 <a href="https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/cancer">Cancer Prediction</a>: Get insights into potential cancer risks.
+
 <a href="https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/heart">Heart Disease Prediction</a>: Determine heart health and potential issues.
+
 <a href="https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/diabetes">Diabetes Prediction</a>: Check for diabetes likelihood using comprehensive health data.
+
 Jupyter Notebooks
 Explore the Jupyter Notebooks used for model development and analysis:
 
