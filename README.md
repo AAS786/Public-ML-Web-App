@@ -19,3 +19,8 @@ Streamlit: For building the interactive web application.
 Machine Learning: Advanced algorithms to deliver accurate predictions.
 Pandas & NumPy: Data handling and manipulation.
 Scikit-Learn: Model training and evaluation.
+How to Use
+Visit the Web App: Click here to access the app
+Enter Your Data: Input the required health metrics for the prediction.
+Get Your Results: Receive an instant prediction and insights based on the input data.
+Feedback Welcome: We'd love to hear your thoughts and suggestions for improvement!
