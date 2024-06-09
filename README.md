@@ -3,7 +3,7 @@
   <a href="https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/" target="_blank">
     <img src="https://img.shields.io/badge/Launch%20Web%20App-blue?style=for-the-badge" alt="Launch Web App">
   </a>
-  <img alt="Multiple Disease Prediction" src="https://i.postimg.cc/NjLmBNn1/maxresdefault-4.jpg" />
+  <img alt="Multiple Disease Prediction" src="[https://i.postimg.cc/NjLmBNn1/maxresdefault-4.jpg](https://i.postimg.cc/6QcXc09m/healthinformatics-PIC-636x424.jpg)" />
 </div>
 
 <p align="center">
