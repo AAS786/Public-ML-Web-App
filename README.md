@@ -1,25 +1,25 @@
 <div align="center">
-  <h1><a href="https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/">Multiple Disease Prediction Web Application</a></h1>
-  <img alt="Multiple Disease Prediction" src="[path_to_your_image.png](https://i.postimg.cc/NjLmBNn1/maxresdefault-4.jpg)" />
+  <h1>Multiple Disease Prediction Web Application</h1>
+  
 </div>
 
 <p align="center">
-  <a href="https://github.com/yourusername/your-repo"><strong>Explore the docs »</strong></a>
+  <a href="https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning"><strong>Explore the docs »</strong></a>
   <br />
   <br />
-  <a href="https://github.com/yourusername/your-repo">View Demo</a>
+  <a href="https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning">View Demo</a>
   ·
-  <a href="https://github.com/yourusername/your-repo/issues">Report Bug</a>
+  <a href="https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/issues">Report Bug</a>
   ·
-  <a href="https://github.com/yourusername/your-repo/issues">Request Feature</a>
+  <a href="https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/issues">Request Feature</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/contributors/yourusername/your-repo?color=dark-green" alt="Contributors">
-  <img src="https://img.shields.io/github/forks/yourusername/your-repo?style=social" alt="Forks">
-  <img src="https://img.shields.io/github/stars/yourusername/your-repo?style=social" alt="Stargazers">
-  <img src="https://img.shields.io/github/issues/yourusername/your-repo" alt="Issues">
-  <img src="https://img.shields.io/github/license/yourusername/your-repo" alt="License">
+  <img src="https://img.shields.io/github/contributors/AAS786/Multiple-Disease-Prediction-Machine-Learning?color=dark-green" alt="Contributors">
+  <img src="https://img.shields.io/github/forks/AAS786/Multiple-Disease-Prediction-Machine-Learning?style=social" alt="Forks">
+  <img src="https://img.shields.io/github/stars/AAS786/Multiple-Disease-Prediction-Machine-Learning?style=social" alt="Stargazers">
+  <img src="https://img.shields.io/github/issues/AAS786/Multiple-Disease-Prediction-Machine-Learning" alt="Issues">
+  <img src="https://img.shields.io/github/license/AAS786/Multiple-Disease-Prediction-Machine-Learning" alt="License">
 </p>
 
 ---
@@ -40,11 +40,11 @@ Welcome to the **Multiple Disease Prediction Web Application**! This powerful to
 
 Explore the Jupyter Notebooks used for model development and analysis:
 
-- [Liver Disease Prediction]([https://github.com/yourusername/your-repo/blob/main/notebooks/Liver_Disease_Prediction.ipynb](https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/liver-disease.ipynb))
-- [Kidney Disease Prediction]([https://github.com/yourusername/your-repo/blob/main/notebooks/Kidney_Disease_Prediction.ipynb](https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/kidney-disease.ipynb))
-- [Cancer Prediction]([https://github.com/yourusername/your-repo/blob/main/notebooks/Cancer_Prediction.ipynb](https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/Breast-cancer.ipynb))
-- [Heart Disease Prediction]([https://github.com/yourusername/your-repo/blob/main/notebooks/Heart_Disease_Prediction.ipynb](https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/heart-disease.ipynb))
-- [Diabetes Prediction]([https://github.com/yourusername/your-repo/blob/main/notebooks/Diabetes_Prediction.ipynb](https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/diabetes-disease.ipynb))
+- [Liver Disease Prediction](https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/liver-disease.ipynb)
+- [Kidney Disease Prediction](https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/kidney-disease.ipynb)
+- [Cancer Prediction](https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/Breast-cancer.ipynb)
+- [Heart Disease Prediction](https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/heart-disease.ipynb)
+- [Diabetes Prediction](https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/diabetes-disease.ipynb)
 
 ## Technology Stack
 
@@ -58,10 +58,10 @@ Explore the Jupyter Notebooks used for model development and analysis:
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-* If you have suggestions for adding or removing projects, feel free to <a href="https://github.com/yourusername/your-repo/issues/new">open an issue</a> to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* If you have suggestions for adding or removing projects, feel free to <a href="https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/issues/new">open an issue</a> to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
-* Please also read through the <a href="https://github.com/yourusername/your-repo/blob/main/CODE_OF_CONDUCT.md">Code Of Conduct</a> before posting your first idea as well.
+* Please also read through the <a href="https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/CODE_OF_CONDUCT.md">Code Of Conduct</a> before posting your first idea as well.
 
 ### Creating A Pull Request
 
@@ -73,15 +73,15 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## License
 
-Distributed under the MIT License. See <a href="https://github.com/yourusername/your-repo/blob/main/LICENSE.md">LICENSE</a> for more information.
+Distributed under the MIT License. See <a href="https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/LICENSE.md">LICENSE</a> for more information.
 
 ### Work By
 
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/asifshaikh"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Asif Shaikh</b></sub></a><br />
-      <a href="https://github.com/asifshaikh" title="github"><img src="https://img.shields.io/github/followers/asifshaikh?style=social"></a>
+      <a href="https://github.com/AAS786"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Asif Shaikh</b></sub></a><br />
+      <a href="https://github.com/AAS786" title="github"><img src="https://img.shields.io/github/followers/AAS786?style=social"></a>
     </td>
   </tr>
 </table>
