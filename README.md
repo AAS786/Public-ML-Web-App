@@ -1,12 +1,12 @@
-<div align="center">
+<div align="center" style="border: 2px solid #ccc; padding: 20px; background: url('https://i.postimg.cc/6QcXc09m/healthinformatics-PIC-636x424.jpg') no-repeat center center; background-size: cover;">
   <h1>Multiple Disease Prediction Web Application</h1>
-  <img alt="Multiple Disease Prediction" src="https://i.postimg.cc/6QcXc09m/healthinformatics-PIC-636x424.jpg" />
   <br><br>
   <p>Click on the button below:</p>
   <a href="https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/" target="_blank">
     <img src="https://img.shields.io/badge/Launch%20Web%20App-blue?style=for-the-badge" alt="Launch Web App">
   </a>
 </div>
+<br><br>
 <p align="center">
   <a href="https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning"><strong>Explore the docs »</strong></a>
   <br />
@@ -34,21 +34,31 @@ Welcome to the **Multiple Disease Prediction Web Application**! This powerful to
 
 ## Features
 
-- **<a href="https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/liver">Liver Disease Prediction</a>**: Assess the risk of liver conditions based on key health metrics.
-- **<a href="https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/kidney">Kidney Disease Prediction</a>**: Evaluate kidney health with precise predictions.
-- **<a href="https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/cancer">Cancer Prediction</a>**: Get insights into potential cancer risks.
-- **<a href="https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/heart">Heart Disease Prediction</a>**: Determine heart health and potential issues.
-- **<a href="https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/diabetes">Diabetes Prediction</a>**: Check for diabetes likelihood using comprehensive health data.
+- **Liver Disease Prediction**: Assess the risk of liver conditions based on key health metrics.
+- **Kidney Disease Prediction**: Evaluate kidney health with precise predictions.
+- **Cancer Prediction**: Get insights into potential cancer risks.
+- **Heart Disease Prediction**: Determine heart health and potential issues.
+- **Diabetes Prediction**: Check for diabetes likelihood using comprehensive health data.
 
 ## Jupyter Notebooks
 
 Explore the Jupyter Notebooks used for model development and analysis:
 
-- [Liver Disease Prediction](https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/liver-disease.ipynb)
-- [Kidney Disease Prediction](https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/kidney-disease.ipynb)
-- [Cancer Prediction](https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/Breast-cancer.ipynb)
-- [Heart Disease Prediction](https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/heart-disease.ipynb)
-- [Diabetes Prediction](https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/diabetes-disease.ipynb)
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/liver-disease.ipynb">Liver Disease Prediction</a></td>
+      <td><a href="https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/kidney-disease.ipynb">Kidney Disease Prediction</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/Breast-cancer.ipynb">Cancer Prediction</a></td>
+      <td><a href="https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/heart-disease.ipynb">Heart Disease Prediction</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AAS786/Multiple-Disease-Prediction-Machine-Learning/blob/main/Notebook/diabetes-disease.ipynb">Diabetes Prediction</a></td>
+    </tr>
+  </table>
+</div>
 
 ## Technology Stack
 
@@ -93,4 +103,3 @@ Distributed under the MIT License. See <a href="https://github.com/AAS786/Multip
 ---
 
 This README file is designed to be visually appealing and informative for GitHub, featuring active links and a structured format. It encourages contributions and makes it easy for others to understand and use your project.
-make button above the Overview not on below title
