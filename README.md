@@ -3,7 +3,8 @@
   <a href="https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/" target="_blank">
     <img src="https://img.shields.io/badge/Launch%20Web%20App-blue?style=for-the-badge" alt="Launch Web App">
   </a>
-  <img alt="Multiple Disease Prediction" src="[[https://i.postimg.cc/NjLmBNn1/maxresdefault-4.jpg](https://i.postimg.cc/6QcXc09m/healthinformatics-PIC-636x424.jpg)](https://i.postimg.cc/NjLmBNn1/maxresdefault-4.jpg)" />
+  <br>
+  <img alt="Multiple Disease Prediction" src="https://i.postimg.cc/6QcXc09m/healthinformatics-PIC-636x424.jpg" />
 </div>
 
 <p align="center">
@@ -83,7 +84,7 @@ Distributed under the MIT License. See <a href="https://github.com/AAS786/Multip
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/AAS786"><img src="[https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4](https://avatars.githubusercontent.com/u/149858827?v=4)" width="100px;" alt=""/><br /><sub><b>Asif Shaikh</b></sub></a><br />
+      <a href="https://github.com/AAS786"><img src="https://avatars.githubusercontent.com/u/149858827?v=4" width="100px;" alt=""/><br /><sub><b>Asif Shaikh</b></sub></a><br />
       <a href="https://github.com/AAS786" title="github"><img src="https://img.shields.io/github/followers/AAS786?style=social"></a>
     </td>
   </tr>
