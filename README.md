@@ -2,7 +2,7 @@ Multiple Disease Prediction Web Application
 
 🌟 WEB-APP LINK BELOW 🌟
 
-🔗 Explore the Application Live! 🔗
+🔗 Explore the Application Live! 🔗https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/
 
 Overview
 Welcome to the Multiple Disease Prediction Web Application! This powerful tool leverages advanced machine learning algorithms to predict the likelihood of various health conditions. Whether you're concerned about liver, kidney, cancer, heart, or diabetes conditions, our application provides an easy-to-use interface for quick and reliable predictions.
