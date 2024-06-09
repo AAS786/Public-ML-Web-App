@@ -77,9 +77,9 @@ Distributed under the MIT License. See <a href="https://github.com/yourusername/
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/asifshaikh"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Asif Shaikh</b></sub></a><br />
-      <a href="https://github.com/asifshaikh" title="github"><img src="https://img.shields.io/github/followers/asifshaikh?style=social"></a> 
-      <a href="https://twitter.com/asifshaikh" title="twitter"><img src="https://img.shields.io/twitter/follow/asifshaikh?label=twitter&style=social"></a>
+      <a href="[https://github.com/asifshaikh](https://github.com/AAS786)"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Asif Shaikh</b></sub></a><br />
+      <a href="[https://github.com/asifshaikh](https://github.com/AAS786)" title="github"><img src="https://img.shields.io/github/followers/asifshaikh?style=social"></a> 
+      <a href="[https://twitter.com/asifshaikh](https://github.com/AAS786)" title="twitter"><img src="https://img.shields.io/twitter/follow/asifshaikh?label=twitter&style=social"></a>
     </td>
   </tr>
 </table>
