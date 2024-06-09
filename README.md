@@ -4,7 +4,6 @@
     <img src="https://img.shields.io/badge/Launch%20Web%20App-blue?style=for-the-badge" alt="Launch Web App">
   </a>
   <br>
-  <p><a href="https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/" target="_blank">https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/</a></p>
   <img alt="Multiple Disease Prediction" src="https://i.postimg.cc/6QcXc09m/healthinformatics-PIC-636x424.jpg" />
 </div>
 
@@ -86,4 +85,11 @@ Distributed under the MIT License. See <a href="https://github.com/AAS786/Multip
   <tr>
     <td align="center">
       <a href="https://github.com/AAS786"><img src="https://avatars.githubusercontent.com/u/149858827?v=4" width="100px;" alt=""/><br /><sub><b>Asif Shaikh</b></sub></a><br />
-      <a href="https://github.com/AAS786" title="github"><img src="https://img.shields.io/github
+      <a href="https://github.com/AAS786" title="github"><img src="https://img.shields.io/github/followers/AAS786?style=social"></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+This README file is designed to be visually appealing and informative for GitHub, featuring active links and a structured format. It encourages contributions and makes it easy for others to understand and use your project.
