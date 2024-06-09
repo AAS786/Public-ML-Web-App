@@ -1,8 +1,6 @@
 <div align="center">
   <h1>Multiple Disease Prediction Web Application</h1>
-  <a href="https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Launch%20Web%20App-blue?style=for-the-badge" alt="Launch Web App">
-  </a>
+  
   <br>
   <img alt="Multiple Disease Prediction" src="https://i.postimg.cc/6QcXc09m/healthinformatics-PIC-636x424.jpg" />
 </div>
@@ -26,6 +24,10 @@
   <img src="https://img.shields.io/github/license/AAS786/Multiple-Disease-Prediction-Machine-Learning" alt="License">
 </p>
 
+---
+<a href="https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Launch%20Web%20App-blue?style=for-the-badge" alt="Launch Web App">
+  </a>
 ---
 
 ## Overview
