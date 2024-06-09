@@ -2,7 +2,6 @@ import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu
 
-
 # Loading the saved models
 
 cancer_model = pickle.load(open('C:/Users/dell/Downloads/cancer_model.sav', 'rb'))
