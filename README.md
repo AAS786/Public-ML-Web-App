@@ -1,6 +1,9 @@
 <div align="center">
   <h1>Multiple Disease Prediction Web Application</h1>
-  
+  <a href="https://public-ml-web-app-qcywgdngqx5xyj4zsuaybc.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Launch%20Web%20App-blue?style=for-the-badge" alt="Launch Web App">
+  </a>
+  <img alt="Multiple Disease Prediction" src="https://i.postimg.cc/NjLmBNn1/maxresdefault-4.jpg" />
 </div>
 
 <p align="center">
